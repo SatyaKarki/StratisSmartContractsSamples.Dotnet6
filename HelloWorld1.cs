@@ -1,5 +1,4 @@
 ﻿using Stratis.SmartContracts;
-using System;
 
 public class HelloWorld1 : SmartContract
 {
